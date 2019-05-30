@@ -1,1 +1,1 @@
-## Test react demo by dmitry doligy
+## Test react demo by d3m1art
